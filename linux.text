@@ -1,0 +1,10 @@
+# Useful Linux Commands
+
+ps aux
+top
+htop
+free -m
+df -h
+du -sh *
+netstat -tulnp
+ss -tulnp
