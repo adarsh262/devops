@@ -23,4 +23,4 @@ total=$(echo "scale=2; $p + $interest" | bc)
 
 echo "----------------------------------"
 echo "Total Interest: $interest"
-echo "Total Amount (Principal + Interest): $total"
+echo " Amount (Principal + Interest): $total"
